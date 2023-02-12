@@ -1,0 +1,69 @@
+#foto {
+    margin-left: 20px; /* Отступ слева */
+   }
+
+#major {
+    margin-left: 340px; /* Отступ слева */
+   }
+
+
+#hlink {
+    margin-left: 20px; /* Отступ слева */
+   }
+
+header{
+	font-size: 2.2em; /* Размер текста */
+    text-align: center; /* Выравнивание по центру */
+    padding: 5px; /* Отступы вокруг текста */
+    /*background: #8fa09b; /* Цвет фона шапки */
+    color: #800040; /* Цвет текста */
+}
+
+li{
+	list-style: circle; /* Кружочки */
+}
+
+p{
+	margin-left: 20px; /* Отступ слева */
+	text-align: justify; /* Выравнивание шрифта по ширине */
+	padding: 0px 10px 0px 0px; /* Поля вокруг текста */
+}
+
+h2 {
+    font-size: 1.1em; /* Размер шрифта */
+    color: #800040; /* Цвет текста */
+    margin-top: 0; /* Отступ сверху */
+    margin-left: 5px; /* Отступ слева */
+   }
+
+h3{
+	font-size: 1em; /* Размер шрифта */
+	color: #800040; /* Цвет текста */
+	margin-top: 0; /* Отступ сверху */
+}
+
+body{
+	width: 55%; /* Ширина занимаемой области экрана */
+	margin: auto;
+	font: 10pt Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
+    background: #e1dfb9; /* Цвет фона сайта*/
+}
+
+aside{
+	padding-top: 0px;
+	width: 40%; /* Ширина слоя */
+	height: 100%;
+	float: left; /* Обтекание по правому краю */
+}
+
+main{
+	padding-top: 10px;
+}
+
+footer{
+	/*background: #8fa09b; /* Цвет фона подвала */
+    color: #800040; /* Цвет текста */
+    text-align: center; /* Выравниваем текст */
+    padding: 5px; /* Отступы вокруг текста */
+    clear: left; /* Отменяем действие float */
+}
